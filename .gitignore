@@ -1,0 +1,14 @@
+# Prowler scan output (regenerate locally; commit examples/ only)
+prowler/output/
+.venv/
+venv/
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
+
+# Secrets
+.env
+*.pem
+credentials
